@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/tags/index.html</loc>
+    <loc>http://tsukihimecn.github.io/categories/index.html</loc>
     
     <lastmod>2022-09-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/categories/index.html</loc>
+    <loc>http://tsukihimecn.github.io/tags/index.html</loc>
     
     <lastmod>2022-09-17</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/404.html</loc>
+    <loc>http://tsukihimecn.github.io/404.html</loc>
     
     <lastmod>2022-09-17</lastmod>
     
@@ -29,25 +29,25 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://tsukihimecn.github.io/about/index.html</loc>
     
-    <lastmod>2020-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
+    <lastmod>2022-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite-url/archive/index.html</loc>
+    <loc>http://tsukihimecn.github.io/cn/MainPost/</loc>
+    
+    <lastmod>2022-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://tsukihimecn.github.io/archive/index.html</loc>
     
     <lastmod>2017-03-20</lastmod>
     
@@ -55,18 +55,9 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://yoursite-url/about/index.html</loc>
-    
-    <lastmod>2016-04-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
-    <loc>http://yoursite-url/</loc>
+    <loc>http://tsukihimecn.github.io/</loc>
     <lastmod>2022-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -74,7 +65,7 @@
 
   
   <url>
-    <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://tsukihimecn.github.io/tags/%E8%A1%A5%E4%B8%81/</loc>
     <lastmod>2022-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -83,7 +74,7 @@
 
   
   <url>
-    <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://tsukihimecn.github.io/categories/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2022-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
