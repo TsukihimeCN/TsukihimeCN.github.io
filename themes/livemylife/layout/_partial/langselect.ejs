@@ -1,0 +1,16 @@
+<!-- LangSelect -->
+<li>
+  <a id="lang-select-label"><i class="fa fa-globe"></i>
+    <span>
+      <%= __('Lang') %>
+    </span>
+    <select id="lang-select" data-canonical="<%=  page.path %>">
+      <% var options = config.langselect.options; %>
+      <% Object.keys(options).forEach(key => { %>
+      <option value="<%= key %>" <% if(key === page.lang ){ %> selected <% } %>>
+        <%= options[key] %>
+      </option>
+      <% }) %>
+    </select>
+  </a>
+</li>

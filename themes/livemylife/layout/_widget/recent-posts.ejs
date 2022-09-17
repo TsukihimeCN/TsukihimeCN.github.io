@@ -1,0 +1,13 @@
+<!-- RECENT POSTS -->
+<% if (site.posts.length){ %>
+<h5><a href="<%= config.root %>"><%= __('recent_posts') %></a></h5>
+<div class="widget">
+  <ul>
+    <% site.posts.sort('date', -1).limit(5).each(function(post){ %>
+    <a href="<%- url_for(post.path) %>">
+      <li><%= post.title || '(no title)' %></li>
+    </a>
+    <% }) %>
+  </ul>
+</div>
+<% } %>
