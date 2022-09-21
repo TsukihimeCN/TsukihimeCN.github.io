@@ -2,7 +2,7 @@
 title: 月姬 重制版汉化补丁发布页
 catalog: true
 date: 2022-09-17 12:34:17
-subtitle: 欢迎使用月R汉化组制作的月姬重制版中文本地化补丁
+subtitle: 欢迎使用月姬重制版中文本地化补丁
 lang: cn
 header-img: /img/header_img/lml_bg.jpg
 tags:
@@ -11,7 +11,7 @@ categories:
 - 公告
 ---
 
-月姬交流QQ群 一群834815110（已满），二群361556275，欢迎加入
+月姬交流QQ群 一群834815110（已满），二群（已满）361556275，三群740294110，欢迎加入
 
 本汉化借助已经破解的switch或ns模拟器，基于switch上v1.0.1/v1.0.2版的月姬 -A piece of blue glass moon-
 
