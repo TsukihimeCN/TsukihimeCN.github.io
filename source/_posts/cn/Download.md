@@ -4,12 +4,15 @@ catalog: true
 date: 2022-09-17 12:34:17
 subtitle: 汉化补丁下载
 lang: cn
-header-img: /img/header_img/lml_bg.jpg
+header-img: /img/header_img/download.png
 tags:
 - 汉化发布
 categories:
 - 下载
 ---
+
+>当前的汉化补丁版本
+ **v2.13**
 
 ### 汉化补丁及使用教程
 
