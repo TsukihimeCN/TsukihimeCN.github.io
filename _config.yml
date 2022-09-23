@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 月R汉化组发布页
-subtitle: 这里是月R汉化组官方博客
-author: Letdo1945
+title: 月姬重置版汉化发布页
+subtitle: 月姬 -A piece of blue glass moon-
+author: letdo1945
 timezone:
 
 # Internationalization (i18n) Setting
@@ -39,8 +39,8 @@ permalink_defaults:
 # Site settings
 SEOTitle: 月姬重制版汉化发布页
 email: jyhitg@gmail.com
-description: "这里是月R汉化组官方发布页"
-keyword: "月姬 重制版,Letdo1945,livemylife,Blog"
+description: "月姬 -A piece of blue glass moon-"
+keyword: "月姬 重制版,letdo1945，孤松夜影，ruje0504,livemylife,Blog"
 header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
