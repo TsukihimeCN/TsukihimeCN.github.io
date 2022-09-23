@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 月姬重置版汉化发布页
+title: 月姬 重置版   汉化发布页
 subtitle: 月姬 -A piece of blue glass moon-
 author: letdo1945
 timezone:
@@ -46,7 +46,7 @@ archives-img: img/header_img/archive_bg2.jpg
 
 
 # Favicon settings
-favicon: img/avatar/roguerabbit.jpg
+favicon: img/avatar/logo.png
 
 
 # Signature Setup
