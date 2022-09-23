@@ -3,7 +3,7 @@ layout: "about"
 title: "About"
 date: 2022-09-17 12:48:33
 description: "前进！不择手段地前进！"
-header-img: "img/scenery/about_bg.jpg"
+header-img: "img/head/guanyu.png"
 ---
 
 ## 汉化项目组成员
@@ -16,7 +16,6 @@ EPUB电子书：吼姆拉の圆
 
 
 ## 加入我们
->  如果你有兴趣和能力参与文本的校对工作，可以加入我们的QQ群：
+>  如果你有兴趣和能力参与文本的校对工作，可以联系我
+>  letdo1945@gmail.com
 
-<img src="/img/scenery/QRCode.png" width="350" alt="QRCode.png"></img>
-<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=md3NP5uRo4SsGs32eqDqJMXWwYIf2zXI&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="月R汉化" title="月R汉化"></a>
