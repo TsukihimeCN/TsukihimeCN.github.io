@@ -1,5 +1,5 @@
 ---
-title: 相关资料下载及汉化发布
+title: 汉化发布及相关资料下载
 catalog: true
 date: 2022-09-17 12:34:17
 subtitle: 汉化补丁下载
