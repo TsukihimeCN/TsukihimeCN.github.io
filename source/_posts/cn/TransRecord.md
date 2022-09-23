@@ -4,7 +4,7 @@ catalog: true
 date: 2022-09-17 12:34:17
 subtitle: 这里记录了汉化的更新进度
 lang: cn
-header-img: /img/header_img/lml_bg.jpg
+header-img: /img/header_img/rizhi.png
 tags:
 - 进度
 categories:
