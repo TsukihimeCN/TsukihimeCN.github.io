@@ -4,7 +4,7 @@ catalog: true
 date: 2022-09-17 12:34:17
 subtitle: 汉化简介以及相关公告
 lang: cn
-header-img: /img/header_img/lml_bg.jpg
+header-img: /img/header_img/shuoming.png
 tags:
 - 汉化简介
 categories:
@@ -25,15 +25,6 @@ EPUB电子书：吼姆拉の圆
 **转载请注明本页面或[91tvg原贴地址！](https://www.91tvg.com/thread-260813-1-1.html?_dsign=1b4f1f71)**
 **本汉化严禁以直播录播的形式在平台传播！**
 感谢大家的支持！
-
->**v2.13版本更新内容**
-公主线一至十章校对完毕
-修正了反馈表中的BUG
->**当前状态**
-汉化翻译工作已全部完成
-校对中
-
-
 
 ### 汉化声明
 
