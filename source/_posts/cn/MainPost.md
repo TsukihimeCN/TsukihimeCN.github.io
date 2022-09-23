@@ -27,11 +27,7 @@ EPUB电子书：吼姆拉の圆
 感谢大家的支持！
 
 ### 汉化声明
-
 本汉化基于Nintendo Switch平台的1.0.2版本 月姬 重制版(月姫 -A piece of blue glass moon-) 官方原版资源制作
-
 游戏本体资源由91tvg资源组提供
-
 游戏本体解包基于nxdumptool，游戏文本解包基于deepluna与mangetsu工具
-
 本汉化以Atmosphère破解后的Nintendo Switch或Ryujinx/Yuzu模拟器挂载MOD的形式生效，不涉及任何对游戏本体资源的破解及修改
