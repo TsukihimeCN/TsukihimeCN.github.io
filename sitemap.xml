@@ -38,15 +38,6 @@
   </url>
   
   <url>
-    <loc>http://tsukihimecn.github.io/cn/MainPost/</loc>
-    
-    <lastmod>2022-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://tsukihimecn.github.io/archive/index.html</loc>
     
     <lastmod>2017-03-20</lastmod>
@@ -64,20 +55,6 @@
   </url>
 
   
-  <url>
-    <loc>http://tsukihimecn.github.io/tags/%E8%A1%A5%E4%B8%81/</loc>
-    <lastmod>2022-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://tsukihimecn.github.io/categories/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2022-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
