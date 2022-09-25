@@ -51,7 +51,7 @@ favicon: img/avatar/logo.png
 
 # Signature Setup
 signature: true # show signature
-signature-img: img/signature/vincent-white.png
+signature-img: img/signature/letdo1945.png
 
 
 # Wave settings
@@ -95,17 +95,11 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 ## Friends
 friends: [
     {
-        title: "V_Vincen",
-        href: "https://v-vincen.life/"
+        title: "ruje0504",
+        href: "https://www.91tvg.com/space-uid-2633886.html"
     },{
-        title: "Bean Tech",
-        href: "http://beantech.org"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Hexo",
-        href: "https://hexo.io/"
+        title: "letdo1945",
+        href: "https://space.bilibili.com/11940231"
     }
 ]
 
