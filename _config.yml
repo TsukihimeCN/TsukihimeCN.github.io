@@ -111,8 +111,8 @@ friends: [
 ##
 gitalk:
   owner: TsukihimeCN                          # 'GitHub repo owner'
-  admin: TsukihimeCN/GitalkForTsukihimeCN                          # 'GitHub repo'
-  repo: TsukihimeCN                           # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
+  admin: TsukihimeCN                          # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
+  repo: GitalkForTsukihimeCN                           # 'GitHub repo'
   clientID: 5828c4e705be82e88a10                       # 'GitHub Application Client ID'
   clientSecret: 1b9098dc94270754960da9047dfa8f09b07a5ace                   # 'GitHub Application Client Secret'
   perPage: 10                     # Pagination size, with maximum 100.
