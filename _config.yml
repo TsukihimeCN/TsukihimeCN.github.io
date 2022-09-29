@@ -110,7 +110,7 @@ friends: [
 ## Doc:https://github.com/gitalk/gitalk/blob/master/readme-cn.md
 ##
 gitalk:
-  owner: TsukihimeCN                          # 'GitHub repo owner'
+  owner: TsukihimeCN                          # 'GitHub repo owner' 
   admin: TsukihimeCN                          # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
   repo: GitalkForTsukihimeCN                           # 'GitHub repo'
   clientID: 5828c4e705be82e88a10                       # 'GitHub Application Client ID'
