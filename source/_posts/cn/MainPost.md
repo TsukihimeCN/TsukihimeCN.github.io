@@ -1,7 +1,7 @@
 ---
 title: 月姬重制版汉化补丁说明
 catalog: true
-date: 2022-09-17 12:34:17
+date: 2022-09-18 12:34:17
 subtitle: 汉化简介以及相关公告
 lang: cn
 header-img: /img/header_img/shuoming.png
