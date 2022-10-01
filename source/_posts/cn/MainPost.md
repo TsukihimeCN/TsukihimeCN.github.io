@@ -28,6 +28,7 @@ EPUB电子书：吼姆拉の圆
 感谢大家的支持！
 
 ### 汉化声明
+本汉化补丁基于 Atmosphere的分层LayeredFS结构与IPS静态修补制作，可用于破解的 Nintendo Switch 运行，实测也可在 PC端的Ryujinx（龙神）与yuzu模拟器上运行，正因为采用 LayeredFS与IPS，所以正版游戏也可用，请有能力者支持正版。
 本汉化基于Nintendo Switch平台的1.0.2版本 月姬 重制版(月姫 -A piece of blue glass moon-) 官方原版资源制作
 游戏本体资源由91tvg资源组提供
 游戏本体解包基于nxdumptool，游戏文本解包基于deepluna与mangetsu工具
