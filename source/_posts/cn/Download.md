@@ -21,7 +21,7 @@ categories:
 
 [91tvg的汉化发布帖](https://www.tekqart.com/thread-260813-1-1.html)
 单独汉化补丁下载及使用教程
-[度盘链接 提取码1945](https://pan.baidu.com/s/1J_kjExZTESmNWPqkeEUGdw)
+[度盘链接 提取码1945](https://pan.baidu.com/s/1iH-ndLLSPMZrTBVkDuKEtQ)
 
 ### 游戏本体XCI
 游戏本体 日文原版XCI，整合v1.0.2更新补丁 转载于91tvg
