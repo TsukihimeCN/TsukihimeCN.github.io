@@ -19,7 +19,7 @@ categories:
 
 ### 汉化补丁及使用教程
 
-[91tvg的汉化发布帖](https://www.tekqart.com/thread-260813-1-1.html])
+[91tvg的汉化发布帖](https://www.tekqart.com/thread-260813-1-1.html)
 单独汉化补丁下载及使用教程
 [度盘链接 提取码1945](https://pan.baidu.com/s/1iH-ndLLSPMZrTBVkDuKEtQ)
 
