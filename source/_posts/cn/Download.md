@@ -25,7 +25,7 @@ categories:
 
 ### 游戏本体XCI
 游戏本体 日文原版XCI，整合v1.0.2更新补丁 转载于91tvg
-[度盘链接 提取码1945 解压密码tsukihime3](https://pan.baidu.com/s/1-qAVS4HFFbsT9h33Kzq_mg)
+[度盘链接 提取码1945 解压密码tsukihime3](https://pan.baidu.com/s/1UdVVQRpeaC5KaA9dAGVBPg?pwd=1945)
 
 ### 游戏文本
 日文原文EPUB电子书
