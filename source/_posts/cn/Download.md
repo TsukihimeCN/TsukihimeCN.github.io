@@ -29,5 +29,6 @@ categories:
 
 ### 游戏文本
 日文原文EPUB电子书
-[度盘链接 提取码zocq](https://pan.baidu.com/s/1rzHcCNs-fP3FNRH3Ldv3mQ)
-
+[度盘链接 提取码chnb](https://pan.baidu.com/s/1wWGsces7HBu0jfefDbizLw?pwd=chnb)
+汉化文本EPUB电子书
+[度盘链接 提取码chnb](https://pan.baidu.com/s/16T9GpUYYFS8VvTuDLf3Z1w?pwd=chnb)
