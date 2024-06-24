@@ -12,12 +12,11 @@ categories:
 ---
 
 ### 汉化项目组成员
-翻译：ruje0504、letdo1945、Calary、孤松夜影、[Regar-夏侯河烁](https://space.bilibili.com/877417)、[「樹里」](https://space.bilibili.com/269499)
+翻译：ruje0504、[letdo1945](https://space.bilibili.com/11940231)、Calary、孤松夜影、[Regar-夏侯河烁](https://space.bilibili.com/877417)、[「樹里」](https://space.bilibili.com/269499)
 校对：奥克尼的暴风雪
 EPUB电子书：吼姆拉の圆
 
 ### 汉化简介
-月姬交流QQ群 一群 834815110 二群 361556275 三群 489217156
 本汉化借助已经破解的switch或ns模拟器，基于switch上v1.0.1/v1.0.2版的月姬 -A piece of blue glass moon-制作
 汉化补丁已经于ns、ryujinx模拟器实机测试过，均可正常使用
 请确保你的游戏本体版本是v1.0.2，模拟器推荐使用ryujinx，否则可能会出现未知bug
